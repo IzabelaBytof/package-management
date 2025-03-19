@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\procesowanie_zamówienia\bin\Debug\net9.0\procesowanie_zamówienia.exe
+C:\Users\isiab\Documents\procesowanie_zamówienia\bin\Debug\net9.0\procesowanie_zamówienia.deps.json
+C:\Users\isiab\Documents\procesowanie_zamówienia\bin\Debug\net9.0\procesowanie_zamówienia.runtimeconfig.json
+C:\Users\isiab\Documents\procesowanie_zamówienia\bin\Debug\net9.0\procesowanie_zamówienia.dll
+C:\Users\isiab\Documents\procesowanie_zamówienia\bin\Debug\net9.0\procesowanie_zamówienia.pdb
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.AssemblyInfo.cs
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.dll
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\refint\procesowanie_zamówienia.dll
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.pdb
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\procesowanie_zamówienia.genruntimeconfig.cache
+C:\Users\isiab\Documents\procesowanie_zamówienia\obj\Debug\net9.0\ref\procesowanie_zamówienia.dll
